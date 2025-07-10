@@ -1,4 +1,4 @@
-# Data&AISummerSchools 🌞🤖
+# Bridging AI & SocietySummer Schools 🌞🤖
 
 We support AI summer schools and collaborative learning, providing resources and projects for students and educators interested in Artificial Intelligence, Data Science, and Machine Learning.
 
