@@ -1,10 +1,10 @@
 # Bridging AI & Society Summer Schools 🌞🤖
 
+We support AI summer schools and collaborative learning, providing resources and projects for students and educators interested in Artificial Intelligence, Data Science, and Machine Learning.
+
 <p align="center">
   <img src="../logo.jpg" alt="Bridging AI & Society Banner" width="600">
 </p>
-
-We support AI summer schools and collaborative learning, providing resources and projects for students and educators interested in Artificial Intelligence, Data Science, and Machine Learning.
 
 ---
 
