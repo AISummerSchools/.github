@@ -35,14 +35,14 @@ We support AI summer schools and collaborative learning, providing resources and
 
 ---
 
-### [Hands-On-Notebooks](https://github.com/StudienstiftungAISummerSchools/Hands-On-Notebooks) 📓🧑‍💻  
-**A collection of Jupyter notebooks to teach the basics of machine learning.**
-- Features easy, out-of-the-box code examples for core ML algorithms.
-- Inspired by A. Géron's “Hands-On Machine Learning” book series.
-- Notebooks are ready-to-run in [Google Colab](https://colab.research.google.com/github/BridgingAISocietySummerSchools/Hands-On-Notebooks/) — no setup required!
-- Includes setup guides for Anaconda, virtual environments, and Docker for local use.
-- Ideal for learners who want practical exposure to ML concepts and code.  
-- _[Explore the notebooks and setup instructions in the repo.](https://github.com/BridgingAISocietySummerSchools/Hands-On-Notebooks)_
+### [Hands-On-Notebooks](https://github.com/BridgingAISocietySummerSchools/Hands-On-Notebooks) 📓🧑‍💻  
+**A curated collection of Jupyter notebooks to teach the fundamentals of machine learning.**
+- Beginner-friendly and designed for hands-on use in our interdisciplinary summer schools.
+- Covers essential ML concepts including linear models, decision trees, random forests, and gradient boosting.
+- Emphasizes visual intuition, experimentation, and interpretability.
+- Notebooks are Colab-compatible — just click and run, no installation required.
+- Local setup instructions for Anaconda, Docker, and virtual environments are included.
+- _[Browse the notebooks and setup guide in the repo.](https://github.com/BridgingAISocietySummerSchools/Hands-On-Notebooks)_
 
 ---
 
