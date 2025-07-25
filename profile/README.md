@@ -1,6 +1,13 @@
-# Bridging AI & Society Summer Schools 🌞🤖
+# Bridging AI & Society 🌞🤖
 
-We support AI summer schools and collaborative learning, providing resources and projects for students and educators interested in Artificial Intelligence, Data Science, and Machine Learning.
+We design and deliver interdisciplinary courses and workshops that explore the technical foundations and societal implications of **Artificial Intelligence (AI)** and **Machine Learning (ML)**.
+
+Our materials are modular, discussion-driven, and tailored for learners from diverse academic backgrounds — no coding experience required.
+
+<p align="center">
+  <strong>📍 Visit our website to learn more:<br>
+  👉 <a href="https://bridgingaiandsociety.org">bridgingaiandsociety.org</a></strong>
+</p>
 
 <p align="center">
   <img src="../logo.jpg" alt="Bridging AI & Society Banner" width="500">
@@ -8,21 +15,9 @@ We support AI summer schools and collaborative learning, providing resources and
 
 ---
 
-## 🚀 Repository Overview
+## 🚀 Repositories
 
-### [Course-Organisation](https://github.com/BridgingAISocietySummerSchools/Course-Organisation) 🧭📚  
-**Organisational materials and participant resources for the course "Machine Learning for Interdisciplinary Audiences"**  
-- Course taught at the *2025 Bridging AI and Society* summer school at Kloster Banz.
-- Includes:
-  - 📄 Introductory lecture on machine learning for a broad academic audience.
-  - 🧠 [Technical Topics](https://github.com/BridgingAISocietySummerSchools/Course-Organisation/blob/main/technical.md): classification, regression, trees, and neural networks.
-  - 🌍 [Societal Topics](https://github.com/BridgingAISocietySummerSchools/Course-Organisation/blob/main/societal.md): fake news, the EU AI Act, AI in healthcare, and the future of work.
-  - 📅 Full course structure, session formats, and how to participate.
-- Designed for participants from diverse disciplines — no coding or ML background required.
-
----
-
-### [Data-Science-AI-Python-Course](https://github.com/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course) 🐍📊  
+### [Data-Science-AI-Python-Course](https://github.com/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course) 🐍📊
 **From "What's Python?" to analyzing real datasets in just 3 hours!**
 - A beginner-friendly Python course focused on data science and AI applications.
 - **No prerequisites** needed — ideal for anyone starting out.
@@ -30,12 +25,12 @@ We support AI summer schools and collaborative learning, providing resources and
 - Each notebook builds on the last, culminating in a real-world weather data analysis project.
 - Includes setup scripts and instructions for virtual environments and Jupyter.
 - **Perfect for:** Students, business professionals, researchers, and anyone curious about data science.
-- ⭐️ Star the repo, fork it, and share your progress!  
+- ⭐️ Star the repo, fork it, and share your progress!
 - _[See full course structure and details in the repo.](https://github.com/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course)_
 
 ---
 
-### [Hands-On-Notebooks](https://github.com/BridgingAISocietySummerSchools/Hands-On-Notebooks) 📓🧑‍💻  
+### [Hands-On-Notebooks](https://github.com/BridgingAISocietySummerSchools/Hands-On-Notebooks) 📓🧑‍💻
 **A curated collection of Jupyter notebooks to teach the fundamentals of machine learning.**
 - Beginner-friendly and designed for hands-on use in our interdisciplinary summer schools.
 - Covers essential ML concepts including linear models, decision trees, random forests, and gradient boosting.
@@ -57,9 +52,7 @@ A private repository for collaborative coding projects that encourage teamwork a
 
 ## 🤝 Get Involved
 
-We welcome contributions and collaboration!  
-For more information about our projects or to get in touch, visit our repositories or contact us via GitHub.
+We welcome collaboration and feedback!
 
----
-
-_Last updated: July 2025_
+To learn more about our courses, teaching philosophy, or materials,
+visit our website 👉 **[bridgingaiandsociety.org](https://bridgingaiandsociety.org)**
