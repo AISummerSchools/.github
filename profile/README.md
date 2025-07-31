@@ -41,6 +41,17 @@ Our materials are modular, discussion-driven, and tailored for learners from div
 
 ---
 
+### [Coding-Project](https://github.com/BridgingAISocietySummerSchools/Coding-Project) 👩‍💻👨‍💻💡
+**Advanced coding challenges for learners eager to go beyond the basics.**
+- A set of **three themed projects** that explore how AI intersects with real societal issues.
+- Designed for learners who already understand the fundamentals and want to apply their skills to real-world datasets.
+- Each challenge includes an educational notebook and can be completed in ~3 hours.
+- Topics include: **Wine Quality Prediction** (AI for agriculture and food), **Fake News Detection** (NLP for media literacy), and **Spam Filtering** (AI for digital well-being).
+- Hosted on **Google Colab** — just click and start coding.
+- _[Explore the challenges and start building.](https://github.com/BridgingAISocietySummerSchools/Coding-Project)_
+
+---
+
 <!--
 ### [Coding-Project](https://github.com/StudienstiftungAISummerSchools/Coding-Project) 👩‍💻👨‍💻🔒
 A private repository for collaborative coding projects that encourage teamwork and innovation within the summer school community.
